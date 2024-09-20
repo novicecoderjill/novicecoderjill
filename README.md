@@ -30,6 +30,6 @@ Here are some ideas to get you started:
   - Azure
   - Google Cloud
 
-- **Languages**: Python, R
+- **Languages**: Python, SQL, R
 
 
