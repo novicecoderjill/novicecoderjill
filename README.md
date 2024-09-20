@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🛩️/👩🏽‍💻: From an undergraduate background in Avionics (engineering), I took the leap of faith and worked in biotech startup as a  Mechatronics Engineer, specializing in IoT and automation, whiles carrying a double role as Business Analyst. 
 
-- 👩🏽‍💻 Having found interest in data analystics, I will be graduating from Universiti Malaya with Masters in Data Science on Dec. 2024.
+- 👩 Having found interest in data analystics, I will be graduating from Universiti Malaya with Masters in Data Science on Dec. 2024.
 
 - 📊 **Data Science expertise**:
   - Machine Learning
