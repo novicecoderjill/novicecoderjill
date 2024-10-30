@@ -32,4 +32,7 @@ Here are some ideas to get you started:
 
 - **Languages**: Python, SQL, R
 
+---
+
+[Let's Connect!](https://www.linkedin.com/in/ainsufi/)
 
